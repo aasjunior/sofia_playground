@@ -6,7 +6,7 @@
 
 ## Descrição do projeto 
 
-Proposta de brinquedo interativo projetado para auxiliar profissionais na identificação de sinais do Transtorno do Espectro Autista (TEA) em crianças, através do estímulo sensorial. O brinquedo consiste em três formas geométricas - círculo, triângulo e quadrado - cada uma equipada com um LED RGB. Estes LEDs podem emitir luz em três cores diferentes: vermelho, verde e azul, baseando-se no Teste de Stroop. O brinquedo é manipulado pelo profissional, que poderá avaliar a interação da criança por meio de uma interface.
+Este projeto propõe um brinquedo interativo projetado para auxiliar profissionais na identificação de sinais do Transtorno do Espectro Autista (TEA) em crianças. O brinquedo visa estimular sensorialmente as crianças e observar possíveis déficits de percepção visual na identificação de formas e cores. O brinquedo consistirá em três formas geométricas - círculo, triângulo e quadrado - cada uma equipada com um LED RGB. Estes LEDs podem emitir luz em três cores diferentes: vermelho, verde e azul, baseando-se no Teste de Stroop. O brinquedo será manipulado pelo profissional, que poderá avaliar a interação da criança por meio de uma interface.
 <br>
 <br>
 
