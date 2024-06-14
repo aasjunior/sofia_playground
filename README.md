@@ -89,7 +89,7 @@ O design 3D do brinquedo também foi criado no Tinkercad. O design inclui três 
 
 ## Tecnologias 💜
 <p align="center">
-   <img src="https://github.com/aasjunior/com.sofia.mobile/assets/85968113/adc364c7-8401-4326-ad56-3807673b85f2" width="600px" alt="Android"/>
+   <img src="https://github.com/aasjunior/com.sofia.mobile/assets/61213599/db90a6e0-3c46-4891-ad39-8405d499bea9" width="600px" alt="Android"/>
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
